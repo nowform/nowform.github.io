@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_Credit card limit increase</title>
+    <defs>
+        <polygon id="path-1" points="0 0 24.6623158 0 24.6623158 16 0 16"></polygon>
+        <polygon id="path-3" points="0 16 27 16 27 0 0 0"></polygon>
+    </defs>
+    <g id="Icon_Credit-card-limit-increase" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-11" transform="translate(2.000000, 7.000000)">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M22.6829888,16 L1.97922806,16 C0.886144711,16 -9.89663515e-05,15.1375688 -9.89663515e-05,14.0738556 L-9.89663515e-05,1.9261444 C-9.89663515e-05,0.862431155 0.886144711,0 1.97922806,0 L22.6829888,0 C23.7760721,0 24.6623158,0.862431155 24.6623158,1.9261444 L24.6623158,14.0738556 C24.6623158,15.1375688 23.7760721,16 22.6829888,16" id="Fill-1" fill="#2D70A9" mask="url(#mask-2)"></path>
+            </g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-5"></g>
+            <polygon id="Fill-4" fill="#19A4D1" mask="url(#mask-4)" points="0 7.20089084 24.6624148 7.20089084 24.6624148 4.22885003 0 4.22885003"></polygon>
+            <polygon id="Fill-6" fill="#FFB751" mask="url(#mask-4)" points="18.7626347 6.8608782 27.000099 4.58754627 21.7133165 9.73227797"></polygon>
+            <polygon id="Fill-7" fill="#FFB751" mask="url(#mask-4)" points="24.6641467 12.6038222 27.0002474 4.58769073 21.7134649 9.73242243"></polygon>
+            <path d="M13.948664,9.59253619 L11.0944744,12.3700364 L8.2402848,15.1475366 C8.2402848,15.1475366 9.5179404,13.9042104 11.0944744,12.3700364 L13.948664,9.59253619 Z" id="Stroke-8" stroke="#FFB751" stroke-width="2.47415879" mask="url(#mask-4)"></path>
+            <path d="M21.8650319,9.59253619 C21.8650319,9.59253619 20.5873763,10.8358624 19.0108423,12.3700364 C17.4343083,13.9042104 16.1566527,15.1475366 16.1566527,15.1475366 C16.1566527,15.1475366 17.4343083,13.9042104 19.0108423,12.3700364 C20.5873763,10.8358624 21.8650319,9.59253619 21.8650319,9.59253619 Z" id="Stroke-9" stroke="#FFB751" stroke-width="2.47415879" mask="url(#mask-4)"></path>
+            <path d="M17.904547,15.1475366 C17.904547,15.1475366 16.6268914,13.9042104 15.0503574,12.3700364 L12.1961678,9.59253619 L15.0503574,12.3700364 C16.6268914,13.9042104 17.904547,15.1475366 17.904547,15.1475366 Z" id="Stroke-10" stroke="#FFB751" stroke-width="2.47415879" mask="url(#mask-4)"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon_Change Billing Cycle</title>
+    <defs>
+        <polygon id="path-1" points="0 22 25 22 25 0 0 0"></polygon>
+    </defs>
+    <g id="Icon_Change-Billing-Cycle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-29" transform="translate(2.500000, 4.000000)">
+            <polygon id="Fill-1" fill="#19A4D1" points="0 22 25 22 25 0.905164466 0 0.905164466"></polygon>
+            <polygon id="Fill-2" fill="#2D70A9" points="0 5.40554731 25 5.40554731 25 0.905508243 0 0.905508243"></polygon>
+            <g id="Group" transform="translate(0.961538, 7.078261)" fill="#2D70A9">
+                <polygon id="Fill-4" points="0 3.82608696 5.28846154 3.82608696 5.28846154 0 0 0"></polygon>
+                <polygon id="Fill-5" points="5.76923077 3.82608696 11.0576923 3.82608696 11.0576923 0 5.76923077 0"></polygon>
+                <polygon id="Fill-6" points="11.5384615 3.82608696 16.8269231 3.82608696 16.8269231 0 11.5384615 0"></polygon>
+                <polygon id="Fill-7" points="17.3076923 3.82608696 22.5961538 3.82608696 22.5961538 0 17.3076923 0"></polygon>
+                <polygon id="Fill-4" points="0 8.60869565 5.28846154 8.60869565 5.28846154 4.7826087 0 4.7826087"></polygon>
+                <polygon id="Fill-5" points="5.76923077 8.60869565 11.0576923 8.60869565 11.0576923 4.7826087 5.76923077 4.7826087"></polygon>
+                <polygon id="Fill-6" points="11.5384615 8.60869565 16.8269231 8.60869565 16.8269231 4.7826087 11.5384615 4.7826087"></polygon>
+                <polygon id="Fill-7" points="17.3076923 8.60869565 22.5961538 8.60869565 22.5961538 4.7826087 17.3076923 4.7826087"></polygon>
+                <polygon id="Fill-4" points="0 13.3913043 5.28846154 13.3913043 5.28846154 9.56521739 0 9.56521739"></polygon>
+                <polygon id="Fill-5" points="5.76923077 13.3913043 11.0576923 13.3913043 11.0576923 9.56521739 5.76923077 9.56521739"></polygon>
+                <polygon id="Fill-6" points="11.5384615 13.3913043 16.8269231 13.3913043 16.8269231 9.56521739 11.5384615 9.56521739"></polygon>
+                <polygon id="Fill-7" points="17.3076923 13.3913043 22.5961538 13.3913043 22.5961538 9.56521739 17.3076923 9.56521739"></polygon>
+            </g>
+            <g id="Group-28">
+                <path d="M22.5961538,18.6521739 C22.5961538,19.4445073 21.9504051,20.0869565 21.1540024,20.0869565 C20.3572872,20.0869565 19.7115385,19.4445073 19.7115385,18.6521739 C19.7115385,17.8598406 20.3572872,17.2173913 21.1540024,17.2173913 C21.9504051,17.2173913 22.5961538,17.8598406 22.5961538,18.6521739 Z" id="Stroke-18" stroke="#FFB751" stroke-width="0.556366996"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-21"></g>
+                <polygon id="Fill-20" fill="#FFB751" mask="url(#mask-2)" points="2.2509799 3.19574967 3.53147536 3.19574967 3.53147536 2.44268149e-15 2.2509799 2.44268149e-15"></polygon>
+                <polygon id="Fill-22" fill="#FFB751" mask="url(#mask-2)" points="21.4685246 3.19574967 22.7490201 3.19574967 22.7490201 2.44268149e-15 21.4685246 2.44268149e-15"></polygon>
+                <polygon id="Fill-23" fill="#FFB751" mask="url(#mask-2)" points="11.8801523 3.19574967 13.1606478 3.19574967 13.1606478 2.44268149e-15 11.8801523 2.44268149e-15"></polygon>
+                <polygon id="Fill-24" fill="#FFB751" mask="url(#mask-2)" points="16.6743385 3.19574967 17.9548339 3.19574967 17.9548339 2.44268149e-15 16.6743385 2.44268149e-15"></polygon>
+                <polygon id="Fill-25" fill="#FFB751" mask="url(#mask-2)" points="7.04516606 3.19574967 8.32566152 3.19574967 8.32566152 2.44268149e-15 7.04516606 2.44268149e-15"></polygon>
+                <g id="Group-2" mask="url(#mask-2)" stroke="#FFB751" stroke-width="0.500730296">
+                    <g transform="translate(8.173077, 12.434783)">
+                        <line x1="2.88461538" y1="0" x2="0.000105717781" y2="2.86956522" id="Stroke-26"></line>
+                        <line x1="0" y1="0" x2="2.88450967" y2="2.86956522" id="Stroke-27"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
